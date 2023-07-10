@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Quicksand:wght@500&display=swap');
+
+
+
+body {
+	background: white;
+	max-width: 1000px;
+	margin: 2rem auto;
+	font-family: 'Quicksand', sans-serif;
+	border: 5px solid rgb(199, 103, 119)
+}
+
+h1,
+h3 {
+	background-color: darkgreen;
+	color: white;
+	padding: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+#paragraph1 {
+	text-align: center;
+}
+
+.generalBtns {
+	background-color: darkgreen;
+	color: white;
+	padding: 10px;
+	border-radius: 30px;
+	border: 0px;
+	margin: 0px auto;
+	display: block;
+}
+
+.yellowBtn {
+	margin: 5px 0px;
+	background-color: yellow;
+	color: rgb(3, 36, 3);
+	padding: 10px;
+	border-radius: 30px;
+	border: 0px;
+	width: 25%
+}
+
+.infoSections {
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+}
+
+
+img {
+	margin: 20px
+}
+
+div {
+	margin: 0 auto;
+}
+
+
+nav {
+	border-bottom: 2px solid black;
+}
+
+#misc,
+h3 {
+	text-align: center;
+
+}
+
+ol {
+	padding-left: 0;
+}
+
+ul {
+	margin: 0px auto;
+	text-align: left;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: darkgreen;
+}
+
+a:visited {
+	color: navy;
+}
+
+input {
+	display: block;
+	width: 300px;
+	margin: 5px
+}
+
+img {
+	max-width: 300px;
+}
