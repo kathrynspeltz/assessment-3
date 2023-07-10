@@ -7,7 +7,6 @@ body {
 	max-width: 1000px;
 	margin: 2rem auto;
 	font-family: 'Quicksand', sans-serif;
-	border: 5px solid rgb(199, 103, 119)
 }
 
 h1,
@@ -48,6 +47,7 @@ h3 {
 	display: flex;
 	flex-direction: row;
 	text-align: center;
+	padding: 5px
 }
 
 
